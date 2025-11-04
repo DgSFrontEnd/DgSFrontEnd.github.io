@@ -2,6 +2,13 @@ body {
   font-family: "Fira Sans", Arial, sans-serif;
   margin: 0px;
   color: #141414;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  margin-bottom: 1000px;
+=======
+>>>>>>> c0cc7e3 (Primeiro commit)
+>>>>>>> 6e3295ad38b49ed7b502fcba8d873c2fb6cb47a9
 }
 
 h1,
@@ -19,7 +26,14 @@ ul {
 
 img {
   max-width: 100%;
+<<<<<<< HEAD
   height: auto;
+=======
+<<<<<<< HEAD
+=======
+  height: auto;
+>>>>>>> c0cc7e3 (Primeiro commit)
+>>>>>>> 6e3295ad38b49ed7b502fcba8d873c2fb6cb47a9
   display: block;
 }
 
@@ -35,6 +49,14 @@ img {
   .subtitulo {
     font-size: 3rem;
     text-transform: capitalize;
+<<<<<<< HEAD
     max-width: initial !important;
+=======
+<<<<<<< HEAD
+    max-width: initial;
+=======
+    max-width: initial !important;
+>>>>>>> c0cc7e3 (Primeiro commit)
+>>>>>>> 6e3295ad38b49ed7b502fcba8d873c2fb6cb47a9
   }
 }
